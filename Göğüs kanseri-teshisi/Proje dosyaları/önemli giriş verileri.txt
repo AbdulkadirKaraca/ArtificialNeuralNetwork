@@ -1,0 +1,16 @@
+benign=iyihuylu=0
+
+
+output1=output1'  transpoz
+cıktılar[output output1];   %output ismi degiştir
+r=corr(output,output1);
+
+
+
+
+
+-----------------
+training_rate=0.70; egitim yüzde kaç
+n1=10; 1. gizli katmandaki nöron sayısı
+n2=15; 2. gizli katmandaki nöron sayısı
+lrate=0.75;ögrenme katsayısı
